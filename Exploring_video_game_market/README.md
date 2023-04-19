@@ -1,5 +1,7 @@
 # Исследование продаж компьютерных игр
 
+[ipynb](https://github.com/apashina/data-science-yandex-praktikum/blob/545c51dc68a334135de631d9b2c7d88fca7f327e/Exploring_video_game_market/05_game_sales_research.ipynb)
+
 ## Используемые инструменты
 
 `python` `pandas` `numpy` `scipy` `matplotlib` `seaborn`
