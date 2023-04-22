@@ -1,6 +1,6 @@
 # Определение стоимости автомобилей
 
-[ipynb](https://github.com/apashina/data-science-yandex-praktikum/blob/4a55c90ef4ecb8f6327bd339b999429d51ed2e69/Determining_the_cost_of_cars/11_determining_the_cost_of_cars.ipynb)
+[ipynb](https://github.com/apashina/data-science-yandex-praktikum/blob/main/Determining_the_cost_of_cars/11_determining_the_cost_of_cars.ipynb)
 
 ## Используемые инструменты
 
