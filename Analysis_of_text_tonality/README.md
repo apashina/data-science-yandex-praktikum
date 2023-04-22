@@ -1,6 +1,6 @@
 # Анализ тональности англоязычного текста
 
-[ipynb](https://github.com/apashina/data-science-yandex-praktikum/blob/a1a0a9d0609779c26514c53709ce73faebc356f8/Analysis_of_text_tonality/13_analysis_of_text_tonality.ipynb)
+[ipynb](https://github.com/apashina/data-science-yandex-praktikum/blob/main/Analysis_of_text_tonality/13_analysis_of_text_tonality.ipynb)
 
 ## Используемые инструменты
 
