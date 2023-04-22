@@ -1,4 +1,4 @@
-# Восстановление золота из руды
+# Телеком - прогнозирование оттока клиентов
 
 [ipynb](https://github.com/apashina/data-science-yandex-praktikum/blob/b331f28b0077490db678176370faa989a2144bc4/Telecom_forecasting_customer_churn/16_telecom_forecasting_customer_churn.ipynb)
 
