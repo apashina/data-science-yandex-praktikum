@@ -1,6 +1,6 @@
 # Восстановление золота из руды
 
-[ipynb](https://github.com/apashina/data-science-yandex-praktikum/blob/545c51dc68a334135de631d9b2c7d88fca7f327e/Recovery_of_gold_from_ore/09_recovery_of_gold_from_ore.ipynb)
+[ipynb](https://github.com/apashina/data-science-yandex-praktikum/blob/main/Recovery_of_gold_from_ore/09_recovery_of_gold_from_ore.ipynb)
 
 ## Используемые инструменты
 
