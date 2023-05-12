@@ -1,6 +1,6 @@
 # Прогнозирование оттока клиентов банка
 
-[ipynb]()
+[ipynb](https://github.com/apashina/data-science-yandex-praktikum/blob/main/Bank_customer_churn/07_bank_customer_churn.ipynb)
 
 ## Используемые инструменты
 
